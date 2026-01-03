@@ -4,7 +4,7 @@
 [![Download on Firefox Add-ons](https://img.shields.io/badge/Download-Firefox%20Add--ons%20%20%20%20%20-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/)
 
 
-**Search Enhancement Suite** is a powerful browser extension that enhances your search experience across major search engines. Block unwanted domains, highlight important results, save favorites, and take full control of your search results with an intuitive interface and powerful features.
+**Search Enhancement Suite** is a powerful browser extension that enhances your search experience across major search engines, this includes Google, Yahoo, Duckduckgo, and Bing. Block unwanted domains, highlight important results, save favorites, and take full control of your search results with an intuitive interface and powerful features.
 
 Take control of your search experience. Perfect for:
 - Filtering out unwanted websites
@@ -13,7 +13,7 @@ Take control of your search experience. Perfect for:
 - Boosting productivity with keyboard shortcuts
 
 > **Note:**
->  This extension supports **all major search engines**.
+>  This extension supports **all major search engines: Google, Yahoo, Duckduckgo, and Bing**.
 > 
 > &
 > 
@@ -36,7 +36,7 @@ Take control of your search experience. Perfect for:
 - ⌨️ **Keyboard shortcuts** — Navigate and control results with hotkeys:
   - Focus search bar
   - Navigate results
-  - Block/highlight/favorite instantly
+  - Block/highlight/favorite/save instantly
 - 🌙 **Dark mode** & theme toggle
 - 📊 **Dashboard** with live statistics:
   - Blocked count
@@ -46,7 +46,6 @@ Take control of your search experience. Perfect for:
 - ⬇️ **Import** data (JSON & CSV formats)
 - ⬆️ **Export** data (JSON & CSV formats)
 - 🔄 **Infinite scrolling** support
-- 🎯 **Early blocking** — Fast performance with instant domain filtering
 - 🎨 **Customizable features** — Toggle individual features on/off
 - 🔍 **Multi-engine support**:
   - Google
