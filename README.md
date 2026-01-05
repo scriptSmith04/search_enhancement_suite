@@ -1,6 +1,6 @@
 # 🔍 Search Enhancement Suite
 
-[![Download on Chrome Web Store](https://img.shields.io/badge/Download-Chrome%20Web%20Store-blue?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/)
+[![Download on Chrome Web Store](https://img.shields.io/badge/Download-Chrome%20Web%20Store-blue?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/detail/search-enhancement-suite/mccbghhcnnakalkomkgdmdeecbaalmpg)
 [![Download on Firefox Add-ons](https://img.shields.io/badge/Download-Firefox%20Add--ons%20%20%20%20%20-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/)
 
 
